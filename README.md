@@ -15,5 +15,5 @@
 
 #### -> [Pokémon no Pandas](/Pokemon_etl/T_Pokemon.ipynb)
 #### -> [Pokémon no PySpark](analises/pyspark_pokemon.md)
-#### -> [Salários no Pandas](analises/pandas_good_reads.md)
-#### -> [Salários no PySpark](analises/pyspark_good_reads.md)
+#### -> [Salários no Pandas](/salary_pyspark/salaries_analysis_pandas.ipynb)
+#### -> [Salários no PySpark](/salary_pyspark/salaries_analysis.ipynb)
