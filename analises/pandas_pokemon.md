@@ -1,4 +1,4 @@
-# Pokemon<img src = "../imagens/pokebola.png" height = 50 width = 60>(PySpark) 
+# Pokemon<img src = "../imagens/pokebola.png" height = 50 width = 60>(PyPanda) 
 
 <img src = "../imagens/pokemon.png">
 
