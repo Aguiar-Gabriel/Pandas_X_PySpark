@@ -7,11 +7,11 @@
 ## Datasets utilizados:
 
 #### -> [Pokémon <img src = "imagens/pikachu.png" height = 20>](datasets/Pokemon_Data.csv)
-#### -> [Good Reads 📚](datasets/good_reads_reviews.csv)
+#### -> [Good Reads 💸](datasets/good_reads_reviews.csv)
 
 ## Análises:
 
 #### -> [Pokémon no Pandas](analises/pandas_pokemon.md)
 #### -> [Pokémon no PySpark](analises/pyspark_pokemon.md)
-#### -> [Good Reads no Pandas](analises/pandas_good_reads.md)
-#### -> [Good Reads no PySpark](analises/pyspark_good_reads.md)
+#### -> [Salários no Pandas](analises/pandas_good_reads.md)
+#### -> [Salários no PySpark](analises/pyspark_good_reads.md)
