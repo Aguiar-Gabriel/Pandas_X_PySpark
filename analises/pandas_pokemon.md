@@ -8,21 +8,16 @@
 
  <img src = "../imagens/banco_teste.png">
 
- Após a esquematização do banco relacional. Foi utilizado o PySpark para a criação do Banco de Dados e suas tabelas.
+ Após a esquematização do banco relacional. Foi utilizado o Pandas para a criação de suas tabelas em CSV e depois relacionados em seu arquivos principal.
 
  ##### Clique [aqui](../cod_programacao/programacao_pokemon_pyspark.ipynb) para ver o código da programação. 🖥️
 
  ### Tratamento do Banco de Dados:
 
- Para a retirada de linhas repetidas e com o valor nulo, as informações sobre cada Pokémon foram listadas em tabelas únicas e listada com seu respectivo Pokemon de acordo com cada relacionamento e ID.
+Criado uma função que identifica as colunas que usam dados semelhanteas a fim de, criar uma tabela de correlação, nesta nova tabela um numero de SK (ID) foi gerado para cada registro unico da soma das colunas semelhantes.
 
  ### Finalização do Tratamento de dados:
 
- Em geral, o tratamento dos dados possibilitou a manipulação do dataset bruto para um banco de dados com maior organização de informações.
- No início, com o dataset bruto, tinha-se uma tabela com 22 campos. Na conclusão do projeto, foi possível adicionar 16 novas tabelas sem repetição de dados.
+ Na segunda etapa, substituimos os valores em TEXTO do arquivo original para os SK das novas tabelas craidas, e assim reduzindo o tamanho do arquivo do bando em 27%.
 
-##### Clique [aqui](tabelas_pokemon_pyspark.md) para encontrar as prints de todas as tabelas.
 
- ### Análise (Utilização PySpark):
-
-A utilização do PySpark para a manipulação e criação do banco de dados, de modo geral, foi prática e sem maiores problemáticas. Entretanto, como estudante do conteúdo de PySpark deve ser enfatizado que, caso existam funções desconhecidas para seus objetivos, não há facilidade para encontrar conteúdos e exemplos sobre sua programação em comparação com o Pandas. Logo, em questão de proximidade ao aprendizado, o Pandas possui maior diversidade de informações evidentes. Porém, relativo ao uso do pyspark.sql, torna-se mais eficaz, já que a linguagem SQL é mais simples de se aplicar.
