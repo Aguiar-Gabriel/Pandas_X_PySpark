@@ -1,0 +1,299 @@
+Ability,SK_Ability
+Adaptability,1
+Aerilate,2
+Aftermath,3
+Air Lock,4
+Analytic,5
+Anger Point,6
+Anger Shell,7
+Anticipation,8
+Arena Trap,9
+Armor Tail,10
+Aroma Veil,11
+As One,12
+Aura Break,13
+Bad Dreams,14
+Ball Fetch,15
+Battery,16
+Battle Armor,17
+Battle Bond,18
+Beads of Ruin,19
+Beast Boost,20
+Berserk,21
+Big Pecks,22
+Blaze,23
+Bulletproof,24
+Cheek Pouch,25
+Chilling Neigh,26
+Chlorophyll,27
+Clear Body,28
+Cloud Nine,29
+Color Change,30
+Comatose,31
+Commander,32
+Competitive,33
+Compound Eyes,34
+Contrary,35
+Corrosion,36
+Costar,37
+Cotton Down,38
+Cud Chew,39
+Curious Medicine,40
+Cursed Body,41
+Cute Charm,42
+Damp,43
+Dancer,44
+Dark Aura,45
+Dauntless Shield,46
+Dazzling,47
+Defeatist,48
+Defiant,49
+Delta Stream,50
+Desolate Land,51
+Disguise,52
+Download,53
+Dragon's Maw,54
+Drizzle,55
+Drought,56
+Dry Skin,57
+Early Bird,58
+Earth Eater,59
+Effect Spore,60
+Electric Surge,61
+Electromorphosis,62
+Emergency Exit,63
+Fairy Aura,64
+Filter,65
+Flame Body,66
+Flare Boost,67
+Flash Fire,68
+Flower Gift,69
+Flower Veil,70
+Fluffy,71
+Forecast,72
+Forewarn,73
+Friend Guard,74
+Frisk,75
+Full Metal Body,76
+Fur Coat,77
+Gale Wings,78
+Galvanize,79
+Gluttony,80
+Good as Gold,81
+Gooey,82
+Gorilla Tactics,83
+Grass Pelt,84
+Grassy Surge,85
+Grim Neigh,86
+Guard Dog,87
+Gulp Missile,88
+Guts,89
+Hadron Engine,90
+Harvest,91
+Healer,92
+Heatproof,93
+Heavy Metal,94
+Honey Gather,95
+Huge Power,96
+Hunger Switch,97
+Hustle,98
+Hydration,99
+Hyper Cutter,100
+Ice Body,101
+Ice Face,102
+Ice Scales,103
+Illuminate,104
+Illusion,105
+Immunity,106
+Imposter,107
+Infiltrator,108
+Innards Out,109
+Inner Focus,110
+Insomnia,111
+Intimidate,112
+Intrepid Sword,113
+Iron Barbs,114
+Iron Fist,115
+Justified,116
+Keen Eye,117
+Klutz,118
+Leaf Guard,119
+Levitate,120
+Libero,121
+Light Metal,122
+Lightning Rod,123
+Limber,124
+Lingering Aroma,125
+Liquid Ooze,126
+Liquid Voice,127
+Long Reach,128
+Magic Bounce,129
+Magic Guard,130
+Magician,131
+Magma Armor,132
+Magnet Pull,133
+Marvel Scale,134
+Mega Launcher,135
+Merciless,136
+Mimicry,137
+Minus,138
+Mirror Armor,139
+Misty Surge,140
+Mold Breaker,141
+Moody,142
+Motor Drive,143
+Moxie,144
+Multiscale,145
+Multitype,146
+Mummy,147
+Mycelium Might,148
+Natural Cure,149
+Neuroforce,150
+Neutralizing Gas,151
+No Guard,152
+None,153
+Normalize,154
+Oblivious,155
+Opportunist,156
+Orichalcum Pulse,157
+Overcoat,158
+Overgrow,159
+Own Tempo,160
+Parental Bond,161
+Pastel Veil,162
+Perish Body,163
+Pickpocket,164
+Pickup,165
+Pixilate,166
+Plus,167
+Poison Heal,168
+Poison Point,169
+Poison Touch,170
+Power Construct,171
+Power Spot,172
+Power of Alchemy,173
+Prankster,174
+Pressure,175
+Primordial Sea,176
+Prism Armor,177
+Propeller Tail,178
+Protean,179
+Protosynthesis,180
+Psychic Surge,181
+Punk Rock,182
+Pure Power,183
+Purifying Salt,184
+Quark Drive,185
+Queenly Majesty,186
+Quick Draw,187
+Quick Feet,188
+RKS System,189
+Rain Dish,190
+Rattled,191
+Receiver,192
+Reckless,193
+Refrigerate,194
+Regenerator,195
+Ripen,196
+Rivalry,197
+Rock Head,198
+Rocky Payload,199
+Rough Skin,200
+Run Away,201
+Sand Force,202
+Sand Rush,203
+Sand Spit,204
+Sand Stream,205
+Sand Veil,206
+Sap Sipper,207
+Schooling,208
+Scrappy,209
+Screen Cleaner,210
+Seed Sower,211
+Serene Grace,212
+Shadow Shield,213
+Shadow Tag,214
+Sharpness,215
+Shed Skin,216
+Sheer Force,217
+Shell Armor,218
+Shield Dust,219
+Shields Down,220
+Simple,221
+Skill Link,222
+Slow Start,223
+Slush Rush,224
+Sniper,225
+Snow Cloak,226
+Snow Warning,227
+Solar Power,228
+Solid Rock,229
+Soul-Heart,230
+Soundproof,231
+Speed Boost,232
+Stakeout,233
+Stall,234
+Stalwart,235
+Stamina,236
+Stance Change,237
+Static,238
+Steadfast,239
+Steam Engine,240
+Steelworker,241
+Steely Spirit,242
+Stench,243
+Sticky Hold,244
+Storm Drain,245
+Strong Jaw,246
+Sturdy,247
+Suction Cups,248
+Super Luck,249
+Supreme Overlord,250
+Surge Surfer,251
+Swarm,252
+Sweet Veil,253
+Swift Swim,254
+Sword of Ruin,255
+Symbiosis,256
+Synchronize,257
+Tablets of Ruin,258
+Tangled Feet,259
+Tangling Hair,260
+Technician,261
+Telepathy,262
+Teravolt,263
+Thermal Exchange,264
+Thick Fat,265
+Tinted Lens,266
+Torrent,267
+Tough Claws,268
+Toxic Boost,269
+Toxic Debris,270
+Trace,271
+Transistor,272
+Triage,273
+Truant,274
+Turboblaze,275
+Unaware,276
+Unburden,277
+Unnerve,278
+Unseen Fist,279
+Vessel of Ruin,280
+Victory Star,281
+Vital Spirit,282
+Volt Absorb,283
+Wandering Spirit,284
+Water Absorb,285
+Water Bubble,286
+Water Compaction,287
+Water Veil,288
+Weak Armor,289
+Well-Baked Body,290
+White Smoke,291
+Wimp Out,292
+Wind Power,293
+Wind Rider,294
+Wonder Guard,295
+Wonder Skin,296
+Zen Mode,297
+Zero to Hero,298
