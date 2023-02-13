@@ -7,11 +7,11 @@
 ## Datasets utilizados:
 
 #### -> [Pokémon <img src = "imagens/pikachu.png" height = 20>](datasets/Pokemon_Data.csv)
-#### -> [SuperHero Battles <img src = "imagens/porco_aranha.png" widht = 30, height = 30>](datasets/superhero_battles.csv)
+#### -> [Good Reads 📚](datasets/good_reads_reviews.csv)
 
 ## Análises:
 
 #### -> [Pokémon no Pandas](analises/pandas_pokemon.md)
 #### -> [Pokémon no PySpark](analises/pyspark_pokemon.md)
-#### -> [SuperHero Battles no Pandas](analises/pandas_superhero_battles.md)
-#### -> [SuperHero Battles no PySpark](analises/pyspark_superhero_battles.md)
+#### -> [Good Reads no Pandas](analises/pandas_good_reads.md)
+#### -> [Good Reads no PySpark](analises/pyspark_good_reads.md)
