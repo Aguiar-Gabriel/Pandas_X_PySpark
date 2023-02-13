@@ -10,7 +10,7 @@
 
  Após a esquematização do banco relacional. Foi utilizado o Pandas para a criação de suas tabelas em CSV e depois relacionados em seu arquivos principal.
 
- ##### Clique [aqui](../cod_programacao/programacao_pokemon_pyspark.ipynb) para ver o código da programação. 🖥️
+ ##### Clique [aqui](../cod_programacao/T_Pokemon.ipynb) para ver o código da programação. 🖥️
 
  ### Tratamento do Banco de Dados:
 
