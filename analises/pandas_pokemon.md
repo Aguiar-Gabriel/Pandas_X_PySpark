@@ -20,11 +20,12 @@ Criado uma função que identifica as colunas que usam dados semelhanteas a fim 
 
  Na segunda etapa, substituimos os valores em TEXTO do arquivo original para os SK das novas tabelas craidas, e assim reduzindo o tamanho do arquivo do bando em 27%.
 
-<img src = "../imagens/Antes_do_etl.png">
 Dados antes.
+<img src = "../imagens/Antes_do_etl.png">
 
-<img src = "../imagens/Depois_do_etl.png">
 Como ficou o Arquivo
+<img src = "../imagens/Depois_do_etl.png">
 
-<img src = "../imagens/Antes e depois.png">
 Redução dos dados
+<img src = "../imagens/Antes e depois.png">
+
