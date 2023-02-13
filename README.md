@@ -7,7 +7,9 @@
 ## Datasets utilizados:
 
 #### -> [Pokémon <img src = "imagens/pikachu.png" height = 20>](datasets/Pokemon_Data.csv)
-#### -> [Good Reads 💸](datasets/good_reads_reviews.csv)
+#### -> [Employers 💸](datasets/Employers_Data.csv)
+#### -> [Salary 💸](datasets/Salary_Data.csv)
+
 
 ## Análises:
 
