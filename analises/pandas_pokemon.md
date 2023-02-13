@@ -16,6 +16,10 @@
 
 Criado uma função que identifica as colunas que usam dados semelhanteas a fim de, criar uma tabela de correlação, nesta nova tabela um numero de SK (ID) foi gerado para cada registro unico da soma das colunas semelhantes.
 
+Criação das Tabelas para SK
+
+<img src = "../imagens/Criacao_SK.png">
+
  ### Finalização do Tratamento de dados:
 
  Na segunda etapa, substituimos os valores em TEXTO do arquivo original para os SK das novas tabelas craidas, e assim reduzindo o tamanho do arquivo do bando em 27%.
